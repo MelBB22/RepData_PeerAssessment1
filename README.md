@@ -1,3 +1,5 @@
+For this assignment in the Reproducible Research course, I submitted the .Rmd, .md, and .html files. The figures do not show up in the files, so I submitted a separate figures file with the figures, as well as a pdf of the .html file read in a browser window.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
